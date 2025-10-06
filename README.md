@@ -92,4 +92,4 @@ Project is being remastered to support Rails 8.0 and Ruby 3.3.
 
 # License
 
-[MIT License. 2023-2025. Ilya N. Zykin](./LICENSE.md)
+[MIT License. 2023-2025. Nazar](./LICENSE.md)
