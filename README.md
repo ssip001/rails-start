@@ -55,7 +55,7 @@ Before proceeding, Windows users need to set up WSL2:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/the-teacher/rails-start.git
+   git clone https://github.com/ssip001/rails-start.git
    ```
 
 2. Navigate to the project directory:
@@ -88,7 +88,7 @@ The `Makefile` commands abstract away the complexity of Docker commands, allowin
 Project is being remastered to support Rails 8.0 and Ruby 3.3.
 
 - To use previous version use branch `rails7-startkit`.
-- https://github.com/the-teacher/rails7-startkit/tree/RAILS_7_STARTKIT
+- https://github.com/ssip001/rails7-startkit/tree/RAILS_7_STARTKIT
 
 # License
 
